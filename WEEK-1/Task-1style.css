@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-between;
     
+    
     background-color: #1459d1;
 }
 #navbar{
@@ -10,10 +11,8 @@
     justify-content:center;
     align-items:center;
     color: aliceblue;
-    
-    
-    
 }
+
 
 
 
@@ -25,6 +24,8 @@
     justify-content: center;
     align-items: center;
     background-color: burlywood;
+    text-align: center;
+  
 }
 
 
