@@ -1,0 +1,6 @@
+ null =  "basically refers to nothing means empty ,
+ value container no value is stored in container".
+ 
+ 
+ undefined = "it basically refers that the thing which is not defined and and it simpally does have
+ meaning or we can say that the value inside the container is just meaningless untill it get defined"
